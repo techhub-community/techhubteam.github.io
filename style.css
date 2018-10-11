@@ -294,7 +294,7 @@ textarea:focus {
   .header-area .top-header-area {
     width: 100%;
     height: 100px;
-    background-color: #ee002d;
+    background-color: #35B6EC;
     position: relative;
     z-index: 1; }
     @media only screen and (min-width: 768px) and (max-width: 991px) {
@@ -306,7 +306,7 @@ textarea:focus {
     .header-area .top-header-area .top-header-content {
       width: 100%;
       height: 100px;
-      background-color: #ee002d;
+      background-color: #35B6EC;
       position: relative;
       z-index: 1; }
       @media only screen and (min-width: 768px) and (max-width: 991px) {
